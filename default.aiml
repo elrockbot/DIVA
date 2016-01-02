@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+
+<!--  -->
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+    <li>WOW!!</li>
+    <li><star/>??</li>
+    <li>EN SERIO</li>
+    <li>PERDON,</li>
+    <li>A VER A VER,</li>
+</random>
+<random>
+    <li>A QUE TE REFIERES,</li>
+    <li>NO TE COMPRENDI,</li>
+    <li>COMO QUE <star/>?</li>
+    <li>NO ME QUEDO CLARO,</li>
+    <li>ESO TIENE RELACION CON LA CONVERSACION?</li>
+</random>
+<random>
+    <li>LO PODRIAS DECIR <star/> DE DIFERENTE MANERA?</li>
+    <li>NO TE PREOCUPES, NO ERES TU, SOY YO.</li>
+    <li>INTENTEMOS DE NUEVO. DICES QUE <star/>??? HA HA.</li>
+</random>
+</template>
+</category>
+
+
+
+</aiml>
